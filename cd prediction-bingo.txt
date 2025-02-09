@@ -1,0 +1,4 @@
+cd prediction-bingo
+
+netstat -ano | findstr :3001
+taskkill /PID <PID> /F8.275-8.28
