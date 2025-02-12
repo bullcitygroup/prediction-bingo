@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/prediction-bingo/static/css/main.f332384c.css",
-    "main.js": "/prediction-bingo/static/js/main.b6396000.js",
+    "main.js": "/prediction-bingo/static/js/main.63625696.js",
     "static/js/488.e75445ad.chunk.js": "/prediction-bingo/static/js/488.e75445ad.chunk.js",
     "index.html": "/prediction-bingo/index.html",
     "main.f332384c.css.map": "/prediction-bingo/static/css/main.f332384c.css.map",
-    "main.b6396000.js.map": "/prediction-bingo/static/js/main.b6396000.js.map",
+    "main.63625696.js.map": "/prediction-bingo/static/js/main.63625696.js.map",
     "488.e75445ad.chunk.js.map": "/prediction-bingo/static/js/488.e75445ad.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f332384c.css",
-    "static/js/main.b6396000.js"
+    "static/js/main.63625696.js"
   ]
 }
