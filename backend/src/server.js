@@ -12,6 +12,13 @@ const app = express();
 app.use(cors());
 app.use(express.json());
 
+const cors = require('cors');
+app.use(cors({
+  origin: ['https://bullcitygroup.github.io', 'http://localhost:3000'],
+  methods: ['GET', 'POST'],
+  credentials: true
+}));
+
 // Connect to MongoDB
 mongoose.connect(process.env.MONGODB_URI)
   .then(() => console.log('Connected to MongoDB'))
