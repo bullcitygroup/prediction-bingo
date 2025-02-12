@@ -1,6 +1,5 @@
 const express = require('express');
 const mongoose = require('mongoose');
-const cors = require('cors');
 require('dotenv').config();
 
 const manifoldService = require('./services/manifold');
@@ -9,7 +8,6 @@ const Card = require('./models/card');
 const Leaderboard = require('./models/leaderboard');
 
 const app = express();
-app.use(cors());
 app.use(express.json());
 
 const cors = require('cors');
