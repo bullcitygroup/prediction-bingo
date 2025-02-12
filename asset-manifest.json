@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.f332384c.css",
-    "main.js": "/static/js/main.3e8ca4af.js",
-    "static/js/488.e75445ad.chunk.js": "/static/js/488.e75445ad.chunk.js",
-    "index.html": "/index.html",
-    "main.f332384c.css.map": "/static/css/main.f332384c.css.map",
-    "main.3e8ca4af.js.map": "/static/js/main.3e8ca4af.js.map",
-    "488.e75445ad.chunk.js.map": "/static/js/488.e75445ad.chunk.js.map"
+    "main.css": "/prediction-bingo/static/css/main.f332384c.css",
+    "main.js": "/prediction-bingo/static/js/main.b6396000.js",
+    "static/js/488.e75445ad.chunk.js": "/prediction-bingo/static/js/488.e75445ad.chunk.js",
+    "index.html": "/prediction-bingo/index.html",
+    "main.f332384c.css.map": "/prediction-bingo/static/css/main.f332384c.css.map",
+    "main.b6396000.js.map": "/prediction-bingo/static/js/main.b6396000.js.map",
+    "488.e75445ad.chunk.js.map": "/prediction-bingo/static/js/488.e75445ad.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f332384c.css",
-    "static/js/main.3e8ca4af.js"
+    "static/js/main.b6396000.js"
   ]
 }
